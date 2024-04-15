@@ -1,4 +1,4 @@
-https://codeforces.com/contest/770/problem/B
+//https://codeforces.com/contest/770/problem/B
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -38,7 +38,7 @@ long long findMax(long long x)
 int main()
 {
     long long n;
-    cin>>n;;
+    cin>>n;
     cout << findMax(n);
     return 0;
 }
